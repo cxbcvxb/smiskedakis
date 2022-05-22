@@ -1,9 +1,9 @@
-**Hi There, My name is Stelios Miskedakis and I love computers and systems.
+**Hi There, My name is Stelios Miskedakis and I love computers and systems.**
 - 🔭 I’m currently working in my Portfolio
 - 🌱 I’m currently learning Web Development, Ethical Hacking
 - 🤔 I’m looking for help with Full-Stack ( Back-End, Front-End ) Systems
 - 💬 Ask me about anything except 'How to make a coffee'
-- 📫 How to reach me: grsmiskedakist@gmail.com / Social Link in bio
+- 📫 How to reach me: grmiskedakist@gmail.com / Social Link in bio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I chase those bugs at night...
 
